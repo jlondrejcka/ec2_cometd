@@ -1,0 +1,19 @@
+{
+  "name": "sfpe",
+  "version": "1.0.0",
+  "description": "this is an experiment to subscribe to salesforce event bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlondrejcka/ec2_cometd.git"
+  },
+  "author": "Joe Ondrejcka, Salesforce ISV Technical Evangelist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlondrejcka/ec2_cometd/issues"
+  },
+  "homepage": "https://github.com/jlondrejcka/ec2_cometd#readme"
+}
